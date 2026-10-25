@@ -1,7 +1,7 @@
 {
   "dealership": "The Honda Way Abbotsford",
-  "generated_at": "2026-10-25T14:53:50",
-  "vehicle_count": 229,
+  "generated_at": "2026-10-25T14:56:24",
+  "vehicle_count": 234,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -19,6 +19,46 @@
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/6caa914b9c8f.html",
       "condition": "new",
       "price": 41089.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F88TH020529",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/045d4958e0f3.html",
+      "condition": "new",
+      "price": 37589.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic Hybrid Sport Touringin Abbotsford",
+      "vin": "2HGFE4F87TH020442",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/66eb5853ea4e.html",
+      "condition": "new",
+      "price": 41089.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic Hybrid Sport Touringin Abbotsford",
+      "vin": "2HGFE4F80TH020119",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/b54fc6d36602.html",
+      "condition": "new",
+      "price": 41089.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic Hybrid Sport Touringin Abbotsford",
+      "vin": "2HGFE4F8XTH020239",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/37dcbbd72a05.html",
+      "condition": "new",
+      "price": 41089.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sport AWDin Abbotsford",
+      "vin": "3CZRZ2H59VM107832",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/79710cec09b4.html",
+      "condition": "new",
+      "price": 39959.0,
       "price_currency": "CAD"
     },
     {
