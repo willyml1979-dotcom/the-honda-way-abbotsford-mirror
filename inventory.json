@@ -1,6 +1,6 @@
 {
   "dealership": "The Honda Way Abbotsford",
-  "generated_at": "2026-10-25T14:56:24",
+  "generated_at": "2026-10-26T00:35:28",
   "vehicle_count": 234,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1111,7 +1111,7 @@
       "make": "Honda",
       "model": "Passport",
       "condition": "used",
-      "price": 39928.0,
+      "price": 39849.0,
       "price_currency": "CAD"
     },
     {
@@ -1122,7 +1122,7 @@
       "make": "Honda",
       "model": "Pilot",
       "condition": "used",
-      "price": 61795.0,
+      "price": 60867.0,
       "price_currency": "CAD"
     },
     {
@@ -1210,7 +1210,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 53406.0,
+      "price": 53069.0,
       "price_currency": "CAD"
     },
     {
@@ -1232,7 +1232,7 @@
       "make": "Genesis",
       "model": "GV70",
       "condition": "used",
-      "price": 56815.0,
+      "price": 56463.0,
       "price_currency": "CAD"
     },
     {
@@ -1254,7 +1254,7 @@
       "make": "Honda",
       "model": "CR-V Hybrid",
       "condition": "used",
-      "price": 44797.0,
+      "price": 44520.0,
       "price_currency": "CAD"
     },
     {
@@ -1276,7 +1276,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 33795.0,
+      "price": 35689.0,
       "price_currency": "CAD"
     },
     {
