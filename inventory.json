@@ -1,10 +1,18 @@
 {
   "dealership": "The Honda Way Abbotsford",
-  "generated_at": "2026-10-26T08:59:07",
-  "vehicle_count": 230,
+  "generated_at": "2026-10-26T09:00:41",
+  "vehicle_count": 231,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Honda CR-V LX AWDin Abbotsford",
+      "vin": "2HKRS4H22TH119206",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/f010d206c68d.html",
+      "condition": "new",
+      "price": 43434.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Honda Civic LX CVT Sedanin Abbotsford",
       "vin": "2HGFE2F25TH118420",
