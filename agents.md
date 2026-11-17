@@ -7,7 +7,7 @@ The Honda Way - Abbotsford is a  dealership in Abbotsford. This site is an AI-re
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/ and https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/ (about 223 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/ and https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/ (about 247 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/llms.txt

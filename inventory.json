@@ -1,7 +1,7 @@
 {
   "dealership": "The Honda Way Abbotsford",
-  "generated_at": "2026-11-17T11:02:22",
-  "vehicle_count": 223,
+  "generated_at": "2026-11-17T11:08:57",
+  "vehicle_count": 247,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1575,6 +1575,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda Civic Sport CVT Hatchbackin Abbotsford",
+      "vin": "19XFL2H89TE400769",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/7877302cdc1d.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 35689.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
       "vin": "2HGFE4F84TH018485",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/8ffb67b4bf78.html",
@@ -1792,6 +1803,28 @@
       "model": "Civic Hybrid",
       "condition": "new",
       "price": 41089.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F85TH020522",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/48253831215e.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 37589.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic Sedan Sportin Abbotsford",
+      "vin": "2HGFE2F58TH113092",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/265101c2635a.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 35689.0,
       "price_currency": "CAD"
     },
     {
@@ -2075,6 +2108,160 @@
       "condition": "new"
     },
     {
+      "name": "New 2027 Honda Civic LX CVT Sedanin Abbotsford",
+      "vin": "2HGFE2F22VH100671",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/feec8ada7c96.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 32479.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic LX CVT Sedanin Abbotsford",
+      "vin": "2HGFE2F28VH100979",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/6c701535cad5.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 32479.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touring eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F99VH000737",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/f8a4ad221c55.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 41739.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F85VH000502",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/b69dba31a92e.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 38239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F86VH000511",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/dafb027555f8.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 38239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F89VH000518",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/9f932eee0a04.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 38239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F89VH000308",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/94875b74fec1.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 38239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touring eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F98VH000101",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/c35d92b9695c.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 41189.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touring eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F91VH000571",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/1fbb8a4529b8.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 41739.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F84VH000278",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/77f53f7a45ca.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 38239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touring eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F92VH001132",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/8f2929503346.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 41189.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touring eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F90VH001131",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/676c51a2c550.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 41189.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F88VH000400",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/88cb7b8ccd6c.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 38239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport eCVT Sedanin Abbotsford",
+      "vin": "2HGFE4F87VH000517",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/d41ad38ca6a9.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 38239.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Honda HR-V LX AWDin Abbotsford",
       "vin": "3CZRZ2H31VM103403",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/558190d50c09.html",
@@ -2290,6 +2477,83 @@
       "model": "HR-V",
       "condition": "new",
       "price": 39959.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sport AWDin Abbotsford",
+      "vin": "3CZRZ2H54VM107978",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/58f69171e760.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 40059.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sport AWDin Abbotsford",
+      "vin": "3CZRZ2H59VM104512",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/d6ddf598822e.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 39959.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sport AWDin Abbotsford",
+      "vin": "3CZRZ2H55VM108413",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/6d7b8d1e0e6a.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 40059.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sport AWDin Abbotsford",
+      "vin": "3CZRZ2H59VM108771",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/f00e61c51ffd.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 40059.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V LX 2WDin Abbotsford",
+      "vin": "3CZRZ1H36VM101804",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/674d4d731d21.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 34459.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sport AWDin Abbotsford",
+      "vin": "3CZRZ2H56VM108579",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/ce178a2850b0.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 40059.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V LX 2WDin Abbotsford",
+      "vin": "3CZRZ1H3XVM101840",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/5b39156459b4.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 34459.0,
       "price_currency": "CAD"
     },
     {
