@@ -1,7 +1,7 @@
 {
   "dealership": "The Honda Way Abbotsford",
-  "generated_at": "2026-11-18T10:58:36",
-  "vehicle_count": 254,
+  "generated_at": "2026-11-18T11:00:27",
+  "vehicle_count": 258,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2256,6 +2256,50 @@
       "model": "Civic Hybrid",
       "condition": "new",
       "price": 38239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Abbotsford",
+      "vin": "2HGFE2F21VH100810",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/c13b1f8a9877.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 32479.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Abbotsford",
+      "vin": "2HGFE2F20VH100684",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/7af58280f548.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 32479.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Abbotsford",
+      "vin": "2HGFE2F27VH100794",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/9c9f37bb369c.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 32479.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Abbotsford",
+      "vin": "2HGFE2F25VH100793",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/787bed138755.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 32479.0,
       "price_currency": "CAD"
     },
     {
