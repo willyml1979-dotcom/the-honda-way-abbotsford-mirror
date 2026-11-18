@@ -1,6 +1,6 @@
 {
   "dealership": "The Honda Way Abbotsford",
-  "generated_at": "2026-11-17T11:08:57",
+  "generated_at": "2026-11-18T01:56:29",
   "vehicle_count": 247,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -35,6 +35,22 @@
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/3a9f466cdb58.html",
       "condition": "used",
       "price": 36990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Cruze 2019 for salein Abbotsford",
+      "vin": "3G1BC6SM8KS624314",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/534f8edf163c.html",
+      "condition": "used",
+      "price": 12290.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2019 for salein Abbotsford",
+      "vin": "2HKRW2H91KH142576",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/1e25effe772d.html",
+      "condition": "used",
+      "price": 26990.0,
       "price_currency": "CAD"
     },
     {
@@ -94,6 +110,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Passport 2022 for salein Abbotsford",
+      "vin": "5FNYF8H21NB501333",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/66b0564f8981.html",
+      "condition": "used",
+      "price": 29990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Tesla Model Y 2022 for salein Abbotsford",
       "vin": "7SAYGDEF3NF327703",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/6d6d43ff9c58.html",
@@ -107,6 +131,14 @@
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/127f30013c2c.html",
       "condition": "used",
       "price": 29790.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Tesla Model Y 2023 for salein Abbotsford",
+      "vin": "LRWYGDFD8PC222114",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/ac9069498811.html",
+      "condition": "used",
+      "price": 34542.0,
       "price_currency": "CAD"
     },
     {
@@ -134,6 +166,30 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Civic 2024 for salein Abbotsford",
+      "vin": "JHMFL5G46RX800067",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/b5eac086b7fd.html",
+      "condition": "used",
+      "price": 66683.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q5 2025 for salein Abbotsford",
+      "vin": "WA1F2AFY4S2009292",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/3e8283c33ff4.html",
+      "condition": "used",
+      "price": 53997.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2025 for salein Abbotsford",
+      "vin": "2C4RC1GG9SR579683",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/942ea50bed31.html",
+      "condition": "used",
+      "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Bronco Sport 2025 for salein Abbotsford",
       "vin": "3FMCR9DA4SRF80359",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/52c7497a893a.html",
@@ -150,6 +206,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda CR-V 2025 for salein Abbotsford",
+      "vin": "2HKRS4H51SH117374",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/3df0e199f72a.html",
+      "condition": "used",
+      "price": 36733.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda Civic Hybrid 2025 for salein Abbotsford",
       "vin": "2HGFE4F8XSH008946",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/4d4ed89da16e.html",
@@ -163,6 +227,30 @@
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/8d2fad623719.html",
       "condition": "used",
       "price": 27795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Passport 2025 for salein Abbotsford",
+      "vin": "5FNYF8H65SB500250",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/3ea35b03d6d3.html",
+      "condition": "used",
+      "price": 37460.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2026 for salein Abbotsford",
+      "vin": "1C4SDJCT7TC184753",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/11b3c989c649.html",
+      "condition": "used",
+      "price": 49498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Genesis GV70 2026 for salein Abbotsford",
+      "vin": "KMUMADTB1TU264910",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/898e765b44d1.html",
+      "condition": "used",
+      "price": 50924.0,
       "price_currency": "CAD"
     },
     {
@@ -255,17 +343,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Chevrolet Cruze ",
-      "vin": "3G1BC6SM8KS624314",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/534f8edf163c.html",
-      "year": 2019,
-      "make": "Chevrolet",
-      "model": "Cruze",
-      "condition": "used",
-      "price": 12947.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Honda CR-V Touring AWD - Honda APO, Accident-freein Abbotsford",
       "vin": "2HKRW2H91KH142576",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/505e420f65f9.html",
@@ -273,18 +350,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 28981.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Honda CR-V ",
-      "vin": "2HKRW2H91KH142576",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/1e25effe772d.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 28981.0,
+      "price": 26990.0,
       "price_currency": "CAD"
     },
     {
@@ -414,7 +480,7 @@
       "make": "Honda",
       "model": "Passport",
       "condition": "used",
-      "price": 32168.0,
+      "price": 29990.0,
       "price_currency": "CAD"
     },
     {
@@ -426,17 +492,6 @@
       "model": "Passport",
       "condition": "used",
       "price": 37790.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda Passport ",
-      "vin": "5FNYF8H21NB501333",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/66b0564f8981.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "used",
-      "price": 32168.0,
       "price_currency": "CAD"
     },
     {
@@ -571,17 +626,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Tesla Model Y ",
-      "vin": "LRWYGDFD8PC222114",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/ac9069498811.html",
-      "year": 2023,
-      "make": "Tesla",
-      "model": "Model Y",
-      "condition": "used",
-      "price": 37987.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Toyota Prius XLE AWD-e - Accident-freein Abbotsford",
       "vin": "JTDADABU4P3003653",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/dd0ba1d9f1fd.html",
@@ -623,17 +667,6 @@
       "model": "CR-V",
       "condition": "used",
       "price": 38990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda Civic ",
-      "vin": "2HGFE2F22RH110980",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/b5eac086b7fd.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 26684.0,
       "price_currency": "CAD"
     },
     {
@@ -714,17 +747,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Audi Q5 ",
-      "vin": "WA1F2AFY4S2009292",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/3e8283c33ff4.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 55495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Audi Q3 ",
       "vin": "WA1AUCF36S1075580",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/a9153c77e254.html",
@@ -765,18 +787,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 39495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chrysler Pacifica ",
-      "vin": "2C4RC1GG9SR579683",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/942ea50bed31.html",
-      "year": 2025,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 37203.0,
+      "price": 36168.0,
       "price_currency": "CAD"
     },
     {
@@ -846,17 +857,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda CR-V ",
-      "vin": "2HKRS4H22SH109158",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/3df0e199f72a.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 34795.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Honda Civic Hybrid Sport Touring eCVT Sedan - Honda CPO, One Ownerin Abbotsford",
       "vin": "2HGFE4F8XSH008946",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/08467383d373.html",
@@ -886,18 +886,7 @@
       "make": "Honda",
       "model": "Passport",
       "condition": "used",
-      "price": 39849.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Passport ",
-      "vin": "5FNYF8H65SB500250",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/3ea35b03d6d3.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "used",
-      "price": 39849.0,
+      "price": 37460.0,
       "price_currency": "CAD"
     },
     {
@@ -947,34 +936,12 @@
     {
       "name": "2026 Dodge Durango ",
       "vin": "1C4SDJCT7TC184753",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/11b3c989c649.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 53069.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango ",
-      "vin": "1C4SDJCT7TC184753",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/new/11b3c989c649.html",
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
       "price": 63276.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Genesis GV70 ",
-      "vin": "KMUMADTB1TU264910",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/898e765b44d1.html",
-      "year": 2026,
-      "make": "Genesis",
-      "model": "GV70",
-      "condition": "used",
-      "price": 56463.0,
       "price_currency": "CAD"
     },
     {
