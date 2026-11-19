@@ -1,6 +1,6 @@
 {
   "dealership": "The Honda Way Abbotsford",
-  "generated_at": "2026-11-18T11:00:27",
+  "generated_at": "2026-11-18T21:21:33",
   "vehicle_count": 258,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -67,6 +67,14 @@
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/e4d6613f16ab.html",
       "condition": "used",
       "price": 33239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2020 for salein Abbotsford",
+      "vin": "3C63R3EL1LG134661",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/01063e82fc2f.html",
+      "condition": "used",
+      "price": 59990.0,
       "price_currency": "CAD"
     },
     {
@@ -155,6 +163,14 @@
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/127f30013c2c.html",
       "condition": "used",
       "price": 29790.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Maxima 2023 for salein Abbotsford",
+      "vin": "1N4AA6DV0PC501060",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/94cee6520be9.html",
+      "condition": "used",
+      "price": 28436.0,
       "price_currency": "CAD"
     },
     {
@@ -251,6 +267,14 @@
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/3ea35b03d6d3.html",
       "condition": "used",
       "price": 37460.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Ridgeline 2025 for salein Abbotsford",
+      "vin": "5FPYK3F62SB500599",
+      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/40778f593442.html",
+      "condition": "used",
+      "price": 51990.0,
       "price_currency": "CAD"
     },
     {
@@ -439,7 +463,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 38890.0,
+      "price": 37790.0,
       "price_currency": "CAD"
     },
     {
@@ -520,17 +544,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 RAM 3500 ",
-      "vin": "3C63R3EL1LG134661",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/01063e82fc2f.html",
-      "year": 2020,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 61295.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Honda CR-V Black Edition AWD - One Owner, Accident-freein Abbotsford",
       "vin": "2HKRW2H97MH239705",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/9751ededf478.html",
@@ -553,7 +566,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Chevrolet Malibu RSin Abbotsford",
+      "name": "2022 Chevrolet Malibu 4dr Sdn RS - Great Carfax Reliability Rating, Accident-freein Abbotsford",
       "vin": "1G1ZG5ST0NF210067",
       "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/aa83ef394dca.html",
       "year": 2022,
@@ -659,18 +672,7 @@
       "make": "Nissan",
       "model": "Maxima",
       "condition": "used",
-      "price": 29162.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Maxima ",
-      "vin": "1N4AA6DV0PC501060",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/94cee6520be9.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Maxima",
-      "condition": "used",
-      "price": 29162.0,
+      "price": 28436.0,
       "price_currency": "CAD"
     },
     {
@@ -946,17 +948,6 @@
       "model": "Passport",
       "condition": "used",
       "price": 37460.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Ridgeline ",
-      "vin": "5FPYK3F62SB500599",
-      "url": "https://willyml1979-dotcom.github.io/the-honda-way-abbotsford-mirror/used/40778f593442.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Ridgeline",
-      "condition": "used",
-      "price": 52798.0,
       "price_currency": "CAD"
     },
     {
